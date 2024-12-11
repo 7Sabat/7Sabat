@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7Sabat
 - 👀 I’m interested in learning AI
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me :sabateymouri025043@gmail.com
 - 😄 Pronouns:(: 
